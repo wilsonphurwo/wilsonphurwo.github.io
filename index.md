@@ -1,29 +1,16 @@
-## Portfolio
+## Welcome to my portfolio webpage! 
 
 ---
 
-### Category Name 1 
+### Highlight
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[Loan default prediction](/projects/1_LoanDefaultPrediction.pdf)
+<img src="projects/LoanDefaultPrediction.JPG?raw=true"/>
 ---
 
-### Category Name 2
+### Others
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[My project folder](https://github.com/wilsonphurwo/wilsonphurwo.github.io/tree/master/projects)
 
 ---
 
