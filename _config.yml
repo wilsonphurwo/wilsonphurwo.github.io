@@ -1,13 +1,13 @@
 title: Wilson Phurwo # your name (or website title) here
-logo: "/images/0.png" # your photo (or logo) here
+logo: -> "/images/0.png" <- # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Wilson is a recent B.S. graduate in statistics and actuarial science from the University of Illinois at Urbana-Champaign.
+  -> Wilson is a recent B.S. graduate in statistics and actuarial science from the University of Illinois at Urbana-Champaign.
   Highly familiar with the R and RStudio, Wilson served as a research assistant in the Illinois Risk Lab from fall of 2018
-  to spring of 2019. Wilson has an internship experience in the actuarial department of Prudential Life Assurance in Jakarta, Indonesia.
+  to spring of 2019. Wilson has an internship experience in the actuarial department of Prudential Life Assurance in Jakarta, Indonesia. <-
   <br><br>
-  As an aspiring data scientist, Wilson is looking for a data science internship opportunity in the Southeast Asia region.
+  -> As an aspiring data scientist, Wilson is looking for a data science internship opportunity in the Southeast Asia region.
   While waiting for his study in the University of Melbourne, it is best of his interest to learn more of data science use in 
-  the industry.
+  the industry. <-
   <br><br>
   <a href="https://www.linkedin.com/in/wilson-phurwo/">View My LinkedIn Profile</a> 
   
